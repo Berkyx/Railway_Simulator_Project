@@ -1,0 +1,28 @@
+---- Report for Trainset - Locomotive-6 ----
+---- Report for Trainset - Locomotive-6 ----Basic information:TrainSet ID: 5
+Locomotive Name: Locomotive-6
+Start: RailwayStation{name='YB'}
+End: RailwayStation{name='QT'}
+Total Distance: 65
+Railroad Cars:
+	ID: 74, Weight: 30000
+	ID: 75, Weight: 30000
+	ID: 76, Weight: 30000
+	ID: 77, Weight: 30000
+	ID: 78, Weight: 30000
+	ID: 79, Weight: 30000
+% of distance completed between starting and destination stations: 0.0%Railroad cars summary:RailroadCar{id=74, netWeight=30000, grossWeight=30000, connectedToPowerGrid=false, loaded=false}RailroadCar{id=75, netWeight=30000, grossWeight=30000, connectedToPowerGrid=false, loaded=false}RailroadCar{id=76, netWeight=30000, grossWeight=30000, connectedToPowerGrid=false, loaded=false}RailroadCar{id=77, netWeight=30000, grossWeight=30000, connectedToPowerGrid=true, loaded=false}RailroadCar{id=78, netWeight=30000, grossWeight=30000, connectedToPowerGrid=false, loaded=false}RailroadCar{id=79, netWeight=30000, grossWeight=30000, connectedToPowerGrid=false, loaded=false}Total number of people based on the goods transported: 0% of distance completed between the nearest railway stations on the route: 0.0%-------------------------------------------
+---- Report for Trainset - Locomotive-6 ----
+---- Report for Trainset - Locomotive-6 ----Basic information:TrainSet ID: 5
+Locomotive Name: Locomotive-6
+Start: RailwayStation{name='YB'}
+End: RailwayStation{name='QT'}
+Total Distance: 65
+Railroad Cars:
+	ID: 74, Weight: 30064
+	ID: 75, Weight: 30433
+	ID: 76, Weight: 30490
+	ID: 77, Weight: 55632
+	ID: 78, Weight: 30011
+	ID: 79, Weight: 30348
+% of distance completed between starting and destination stations: 100.0%Railroad cars summary:RailroadCar{id=74, netWeight=30000, grossWeight=30064, connectedToPowerGrid=false, loaded=false}RailroadCar{id=75, netWeight=30000, grossWeight=30433, connectedToPowerGrid=false, loaded=false}RailroadCar{id=76, netWeight=30000, grossWeight=30490, connectedToPowerGrid=false, loaded=false}RailroadCar{id=77, netWeight=30000, grossWeight=55632, connectedToPowerGrid=true, loaded=false}RailroadCar{id=78, netWeight=30000, grossWeight=30011, connectedToPowerGrid=false, loaded=false}RailroadCar{id=79, netWeight=30000, grossWeight=30348, connectedToPowerGrid=false, loaded=false}Total number of people based on the goods transported: 0% of distance completed between the nearest railway stations on the route: 0.0%-------------------------------------------
